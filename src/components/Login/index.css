@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.button-action {
+  height: 34px;
+  width: 134px;
+  color: #303150;
+  background-color: #f8fafc;
+  border-radius: 6px;
+  border-width: 0px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
